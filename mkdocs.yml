@@ -30,18 +30,18 @@ edit_uri: edit/master/docs/EN/
 #  - stylesheets/extra.css
 nav:
 #    - Home: 'index.md'
-    - 'Introduction':
-        - 'Introduction' : 'index.md'
-        - 'Safety First': 'Getting-Started/Safety-first.md'
-        - 'What is a closed loop system': 'Getting-Started/ClosedLoop.md'
-        - 'What is a closed loop system with AAPS': 'Getting-Started/WhatisAndroidAPS.md'
-        - 'Docs updates & changes': 'Getting-Started/WikiUpdate.md'
-    - 'Requirments':
-        - 'CGM/FGM choices': 'Configuration/BG-Source.md'
-        - 'Pump choices': 'Getting-Started/Pump-Choices.md'
-        - 'Module': 'Module/module.md'
-    - 'Build':
-        - 'Building the APK': 'Installing-AndroidAPS/Building-APK.md'
+    - '1. Introduction':
+        - '1.1 Introduction' : 'index.md'
+        - '1.2 Safety First': 'Getting-Started/Safety-first.md'
+        - '1.3 What is a closed loop system': 'Getting-Started/ClosedLoop.md'
+        - '1.4 What is a closed loop system with AAPS': 'Getting-Started/WhatisAndroidAPS.md'
+        - '1.5 Docs updates & changes': 'Getting-Started/WikiUpdate.md'
+    - '2. Requirments':
+        - '2.1 CGM/FGM choices': 'Configuration/BG-Source.md'
+        - '2.2 Pump choices': 'Getting-Started/Pump-Choices.md'
+        - '2.3 Module': 'Module/module.md'
+    - '3. Build':
+        - '3.1 Building the APK': 'Installing-AndroidAPS/Building-APK.md'
         - 'Update to a new version or branch': 'Installing-AndroidAPS/Update-to-new-version.md'
         - 'Troubleshooting': 'Installing-AndroidAPS/Update-to-new-version.md'
         - 'Hints and Checks after update to AAPS 3.0': 'Installing-AndroidAPS/update3_0.md'

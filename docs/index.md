@@ -23,8 +23,10 @@ Additionally, you need at least a supported and FDA/CE approved insulin pump and
 The app does *not* use self-learning artificial intelligence. Instead, the calculations of AAPS are based on the individual dosage algorithm and carbohydrate intake the user manually puts into their treatments profile, but they are verified by the system for safety reasons.
 The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons."
 
+
 4) add a "complete" tooltip AAPS="Android Artificial Pancreas System with the more formal explanation which can be several paragraphs long but probably limited in format and images (although we probably want to test it)".
-[AAPS_option3][tooltip_AAPS_3] 
+[AAPS_option3][tooltip_AAPS_3]   
+(extra long description)
 
 
 

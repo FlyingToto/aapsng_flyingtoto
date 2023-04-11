@@ -2,6 +2,42 @@
 
 ![Image](images/modules-female.png)
 
+
+TOOLTIP Options (for glossary &al!)
+[tooltip_AAPS_1]: ## "Android Artificial Pancreas system"
+
+
+
+1) use nothing in the main text and just list the definition somewhere in the doc once in the text itself, possibly repeating it in the main text in some cases (current setup)
+2)add a "basic" tooltip like I did in my example AAPS="Android Artificial Pancreas System" [AAPS_option2][tooltip_AAPS_1] 
+
+3) add a "basic" tooltip like I did in my example AAPS="Android Artificial Pancreas System" + make the keyword a link taking you to the specific page in the glossary section of the doc with the more formal explanation. [AAPS_option3](https://aapsng-flyingtoto.readthedocs.io/en/latest/ "Android Artificial Pancreas system"). 
+
+
+[tooltip_AAPS_3]: ## "Android Artificial Pancreas system
+is an open source app for people living with insulin-dependent diabetes that acts as an artificial pancreas system (APS) on Google Android smartphones. The main components are different openAPS software algorithms which aim to do what a living pancreas does: keeping blood sugar levels within healthy limits by using automated insulin dosing (AID).
+
+Additionally, you need at least a supported and FDA/CE approved insulin pump and continuous glucose meter.
+
+The app does *not* use self-learning artificial intelligence. Instead, the calculations of AAPS are based on the individual dosage algorithm and carbohydrate intake the user manually puts into their treatments profile, but they are verified by the system for safety reasons.
+
+The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons.
+
+!!! note "Ask for help - Writing Docs"
+    Please don't be shy, we urgently *need* support in creating the documentation.
+
+    A pull request to edit the documentation is relatively simple to create. You can't break anything. There are release procedures.
+
+    A 3 minute video which explains how to edit the docs via PR is available [here](https://www.youtube.com/watch?v=Vo4L6YYxWak).
+
+"
+
+
+4) add a "complete" tooltip AAPS="Android Artificial Pancreas System with the more formal explanation which can be several paragraphs long but probably limited in format and images (although we probably want to test it)".
+[AAPS_option3][tooltip_AAPS_3] 
+
+
+
 [tooltip_AAPS]: ## "Android Artificial Pancreas system"
 
 [AAPS][tooltip_AAPS] is an open source app for people living with insulin-dependent diabetes that acts as an artificial pancreas system (APS) on Google Android smartphones. The main components are different openAPS software algorithms which aim to do what a living pancreas does: keeping blood sugar levels within healthy limits by using automated insulin dosing (AID).

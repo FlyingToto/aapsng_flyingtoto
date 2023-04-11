@@ -4,6 +4,7 @@
 
 
 TOOLTIP Options (for glossary &al!)
+
 [tooltip_AAPS_2]: ## "Android Artificial Pancreas system"
 
 

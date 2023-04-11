@@ -4,7 +4,6 @@
 
 
 TOOLTIP Options (for glossary &al!)
-
 [tooltip_AAPS_2]: ## "Android Artificial Pancreas system"
 
 
@@ -17,8 +16,7 @@ TOOLTIP Options (for glossary &al!)
  [AAPS_option3](https://aapsng-flyingtoto.readthedocs.io/en/latest/ "Android Artificial Pancreas system"). 
 
 
-[tooltip_AAPS_3]: ## "Android Artificial Pancreas system
-is an open source app for people living with insulin-dependent diabetes that acts as an artificial pancreas system (APS) on Google Android smartphones. The main components are different openAPS software algorithms which aim to do what a living pancreas does: keeping blood sugar levels within healthy limits by using automated insulin dosing (AID).
+[tooltip_AAPS_3]: ## "Android Artificial Pancreas system is an open source app for people living with insulin-dependent diabetes that acts as an artificial pancreas system (APS) on Google Android smartphones. The main components are different openAPS software algorithms which aim to do what a living pancreas does: keeping blood sugar levels within healthy limits by using automated insulin dosing (AID).
 
 Additionally, you need at least a supported and FDA/CE approved insulin pump and continuous glucose meter.
 

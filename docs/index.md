@@ -10,7 +10,7 @@ TOOLTIP Options (for glossary &al!)
 
 1) use nothing in the main text and just list the definition somewhere in the doc once in the text itself, possibly repeating it in the main text in some cases (current setup)
 
-3) add a "basic" tooltip like I did in my example AAPS="Android Artificial Pancreas System" [AAPS_option2][tooltip_AAPS_2] 
+3) add a "basic" tooltip like I did in my example AAPS="Android Artificial Pancreas System" [AAPS_option2][tooltip_AAPS_2]
 
 3) add a "basic" tooltip like I did in my example AAPS="Android Artificial Pancreas System" + make the keyword a link taking you to the specific page in the glossary section of the doc with the more formal explanation.
  [AAPS_option3](https://aapsng-flyingtoto.readthedocs.io/en/latest/ "Android Artificial Pancreas system"). 

@@ -3,7 +3,7 @@
 ![Image](images/modules-female.png)
 
 
-!!! note "TOOLTIP Options (for glossary &al!)"
+TOOLTIP Options (for glossary &al!)
 
 
 

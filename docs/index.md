@@ -15,6 +15,7 @@ this ia an exmaple of [multiline tooltip][tooltip_example_1]
 
 <details><summary> this is an example of a summary with multiple lines details </summary>
 this is line 1 of my details.
+    
 this is line 2 of my details.
 </details>
 

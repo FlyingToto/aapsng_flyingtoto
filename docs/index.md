@@ -10,12 +10,18 @@
 
 
 
+
+
 [tooltip_example_1]: ## "this is line 1 of my tooltip
 this is line 2 of my tooltip"
 
 
 
+
+
 this ia an example of [multiline tooltip][tooltip_example_1]
+
+
 
 
 
@@ -24,6 +30,8 @@ this is line 1 of my details.
     
 this is line 2 of my details.
 </details>
+
+
 
 
 

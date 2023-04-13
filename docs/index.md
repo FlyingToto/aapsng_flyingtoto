@@ -29,7 +29,8 @@
 
 [tooltip_AAPS]: ## "Android Artificial Pancreas system"
 
-[AAPS][tooltip_AAPS] <details><summary> is an Android Artificial Pancreas System (APS) aimed to run on a standard cell phone</summary>
+[AAPS][tooltip_AAPS] 
+<details><summary> AAPS is an Android Artificial Pancreas System (APS) aimed to run on a standard cell phone</summary>
 
 [AAPS][tooltip_AAPS] is an open source app for people living with insulin-dependent diabetes that acts as an artificial pancreas system (APS) on Google Android smartphones. The main components are different openAPS software algorithms which aim to do what a living pancreas does: keeping blood sugar levels within healthy limits by using automated insulin dosing (AID).
 

@@ -12,12 +12,13 @@ TOOLTIP Options (for glossary &al!)
 
 
 
-[tooltip_example_1]: ## "this is line 1 of my tooltip <br>
-this is line 2 of my tooltip"
-
-
+[tooltip_example_1]: ## "this is line 1 of my tooltip <br>this is line 2 of my tooltip"
 
 this ia an example of [multiline tooltip][tooltip_example_1]
+
+this is another syntax for [multiline tooltip]{test one}
+
+
 
 
 <details><summary> this is an example of a summary with multiple lines details </summary>

@@ -20,12 +20,21 @@ this ia an example of [multiline tooltip][tooltip_example_1]
 this is another syntax for [multiline tooltip]{test one}
 
 
+[tooltip_example_2]: ## "this is line 1 of my tooltip&#10;this is line 2 of my tooltip"
+
+this is an example of [multiline tooltip with &10][tooltip_example_2]
 
 
 <details><summary> this is an example of a summary with multiple lines details </summary>
 this is line 1 of my details.<br> 
 this is line 2 of my details.<br>
 </details>
+
+
+
+
+intro to mkdic - https://m.youtube.com/watch?v=Q-YA_dA8C20.
+
 
 
 
